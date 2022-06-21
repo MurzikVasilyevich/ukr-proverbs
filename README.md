@@ -1,2 +1,2 @@
-# uk-proverbs
+# ukr-proverbs
 Digitized versions of Ukrainian books of proverbs and adages
